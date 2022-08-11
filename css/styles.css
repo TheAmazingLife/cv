@@ -1,0 +1,28 @@
+/*Estilo de la pagina*/
+body {
+    background-color: #395B64;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1 {
+    color: #A5C9CA;
+}
+
+h3 {
+    color: #A5C9CA;
+}
+
+body {
+    color: #E7F6F2; 
+}
+
+a:link {color: #A5C9CA;}
+
+a:visited { color: aquamarine;}
